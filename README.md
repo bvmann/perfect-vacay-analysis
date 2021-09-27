@@ -1,4 +1,4 @@
-# python-api-challenge
+# Searching for the perfect holiday
 
 Using openweather api and google gmaps, plotted data relating latitude and weather factors. Then used the found data to pick some "perfect" places along with hotels to stay. 
 
